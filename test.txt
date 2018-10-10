@@ -1,4 +1,9 @@
 Hello, I'm Lili
+<<<<<<< HEAD
 I am continuing writing something here
 I hope you like it
  I am here hello world
+=======
+
+Hellooo!! Alens here too!! Tina!?? Where you at??
+>>>>>>> 81446cc6ab528c50746783e9a82860fa2a726287
